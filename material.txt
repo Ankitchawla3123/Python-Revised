@@ -1,0 +1,6 @@
+modules and packages
+https://www.slideshare.net/slideshow/functions-and-modulespptx/266216000
+
+topics:-
+decorator functions
+init and generators 
